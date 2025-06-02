@@ -11,6 +11,8 @@
 
 
 
+json데이터  - https://dino-21.github.io/Json_data/pm1.json
+
 pom.xml
 <!-- JSON 파싱의 핵심 기능을 제공하는 Jackson의 코어 라이브러리 -->
 		<dependency>
